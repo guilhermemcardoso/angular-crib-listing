@@ -1,4 +1,6 @@
 # Ng2Cribs
+This project was developed during the following course:
+https://www.udemy.com/course/getting-started-with-angular-2/
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.1.
 
